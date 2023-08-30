@@ -1,7 +1,7 @@
 # ECOMMERCE-WEBSITE
 
 ## 🔗 Live Link
-#### https://bonik-pk.cyclic.cloud/
+#### https://bonik-pk.cyclic.app/
 
 # API-REFERENCES
 
