@@ -3,6 +3,35 @@
 ## 🔗 Live Link
 #### https://bonik-pk.cyclic.app/
 
+
+## 📝Overview
+
+Welcome to the documentation of my website, a web application developed using React, Express, MongoDB, and Bootstrap, and hosted on Cyclic. This documentation will guide you through the key aspects and functionalities of the website, which is designed to serve three main user roles: Guest, User, and Admin.
+
+## Roles:
+### Guest:
+- Browse products, categories, and brands.
+- Requires login to add products to the cart.
+- Limited functionality focused on product discovery.
+### User:
+- Login to access advanced features.
+- Search for products by name, brand, or category.
+- Add products to the cart for future purchase.
+- View detailed product information and leave reviews.
+- Manage product quantities in the cart.
+- Checkout with contact info and address.
+- Receive order confirmation via email.
+- Update user profile and logout.
+### Admin:
+- Manage product categories and brands.
+- Add, update, and delete products.
+- Update order status (e.g., from "Pending" to "Delivered").
+- Update admin profile and logout.
+## 🌐Technologies Used:
+1.  **Frontend:** React, Bootstrap
+2. **Backend:** Express.js
+3. **Database:** MongoDB
+3. **Hosting:** Cyclic 
 # API-REFERENCES
 
 ## USER
