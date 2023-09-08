@@ -8,13 +8,11 @@
 
 Welcome to the documentation of my website, a web application developed using React, Express, MongoDB, and Bootstrap, and hosted on Cyclic. This documentation will guide you through the key aspects and functionalities of the website, which is designed to serve three main user roles: Guest, User, and Admin.
 
-## Roles
-
+## Roles:
 ### Guest:
 - Browse products, categories, and brands.
 - Requires login to add products to the cart.
 - Limited functionality focused on product discovery.
-
 ### User:
 - Login to access advanced features.
 - Search for products by name, brand, or category.
@@ -24,13 +22,11 @@ Welcome to the documentation of my website, a web application developed using Re
 - Checkout with contact info and address.
 - Receive order confirmation via email.
 - Update user profile and logout.
-
 ### Admin:
 - Manage product categories and brands.
 - Add, update, and delete products.
 - Update order status (e.g., from "Pending" to "Delivered").
 - Update admin profile and logout.
-
 ## 🌐Technologies Used:
 1.  **Frontend:** React, Bootstrap
 2. **Backend:** Express.js
