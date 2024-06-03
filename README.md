@@ -1,9 +1,5 @@
 # ECOMMERCE-WEBSITE
 
-## 🔗 Live Link
-#### https://bonik-pk.cyclic.app/
-
-
 ## 📝Overview
 
 Welcome to the documentation of my website, a web application developed using React, Express, MongoDB, and Bootstrap, and hosted on Cyclic. This documentation will guide you through the key aspects and functionalities of the website, which is designed to serve three main user roles: Guest, User, and Admin.
