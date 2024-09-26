@@ -1,10 +1,9 @@
 # ECOMMERCE-WEBSITE
-## LIVE URL
-### https://ecommerce-frontend-md7h.onrender.com
+### LIVE URL  https://ecommerce-frontend-md7h.onrender.com
 
 ## 📝Overview
 
-Welcome to the documentation of my website, a web application developed using React, Express, MongoDB, and Bootstrap, and hosted on Cyclic. This documentation will guide you through the key aspects and functionalities of the website, which is designed to serve three main user roles: Guest, User, and Admin.
+Welcome to the documentation of my website, a web application developed using React, Express, MongoDB, and Bootstrap, and hosted on Render. This documentation will guide you through the key aspects and functionalities of the website, which is designed to serve three main user roles: Guest, User, and Admin.
 
 ## Roles:
 ### Guest:
@@ -29,7 +28,7 @@ Welcome to the documentation of my website, a web application developed using Re
 1.  **Frontend:** React, Bootstrap
 2. **Backend:** Express.js
 3. **Database:** MongoDB
-3. **Hosting:** Cyclic 
+3. **Hosting:** Render 
 # API-REFERENCES
 
 ## USER
